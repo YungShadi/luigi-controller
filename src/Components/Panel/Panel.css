@@ -1,0 +1,8 @@
+.panel {
+  width: 100%;
+  background-color: #5e9eff;
+  opacity: 0.8;
+  height: 40px;
+  position: absolute;
+  bottom: 0;
+}
